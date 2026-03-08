@@ -1,0 +1,37 @@
+@model LabMvc.Controllers.LabInfo
+
+@{
+    ViewData["Title"] = "Інформація про лабораторну роботу";
+    Layout = "_Layout";
+}
+
+<div class="container mt-4">
+    <h2>Інформація про лабораторну роботу</h2>
+
+    <table class="table table-bordered" style="max-width: 700px;">
+        <thead class="table-dark">
+            <tr>
+                <th>Поле</th>
+                <th>Значення</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><strong>Номер</strong></td>
+                <td>@Model.LabNumber</td>
+            </tr>
+            <tr>
+                <td><strong>Тема</strong></td>
+                <td>@Model.Topic</td>
+            </tr>
+            <tr>
+                <td><strong>Мета</strong></td>
+                <td>@Model.Goal</td>
+            </tr>
+            <tr>
+                <td><strong>Виконавець</strong></td>
+                <td>@Model.AuthorName</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

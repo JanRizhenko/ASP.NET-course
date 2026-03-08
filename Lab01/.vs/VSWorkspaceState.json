@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LabMvc\\Controllers",
+    "\\LabMvc\\Views",
+    "\\LabMvc\\Views\\Lab",
+    "\\MiddlewareSandbox",
+    "\\MiddlewareSandbox\\Middlewares",
+    "\\MiddlewareSandbox\\Properties"
+  ],
+  "SelectedNode": "\\MiddlewareSandbox\\Middlewares\\CheckApiKeyMiddleware.cs",
+  "PreviewInSolutionExplorer": false
+}
