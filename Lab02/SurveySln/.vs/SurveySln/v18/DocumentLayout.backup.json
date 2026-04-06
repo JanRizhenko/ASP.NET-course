@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\surveyportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\surveyportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\models\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\models\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\models\\surveydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\models\\surveydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\surveyportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\surveyportal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -23,20 +39,8 @@
       "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\migrations\\surveydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\models\\surveydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\models\\surveydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\models\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|solutionrelative:surveyportal\\models\\survey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BCC72541-CC95-4F2C-BE16-A7C57E3732F5}|SurveyPortal\\SurveyPortal.csproj|d:\\work\\asp.net\\lab02\\surveysln\\surveyportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,37 +74,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "SurveyPortal\\Models\\SeedData.cs",
+              "ToolTip": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Models\\SeedData.cs",
+              "RelativeToolTip": "SurveyPortal\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T22:37:34.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SurveyDbContext.cs",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Models\\SurveyDbContext.cs",
               "RelativeDocumentMoniker": "SurveyPortal\\Models\\SurveyDbContext.cs",
               "ToolTip": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Models\\SurveyDbContext.cs",
               "RelativeToolTip": "SurveyPortal\\Models\\SurveyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:47:27.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:47:27.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SurveyPortal",
+              "DocumentIndex": 5,
+              "Title": "SurveyPortal.csproj",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\SurveyPortal.csproj",
               "RelativeDocumentMoniker": "SurveyPortal\\SurveyPortal.csproj",
               "ToolTip": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\SurveyPortal.csproj",
               "RelativeToolTip": "SurveyPortal\\SurveyPortal.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-08T18:35:55.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:35:55.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Survey.cs",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Models\\Survey.cs",
               "RelativeDocumentMoniker": "SurveyPortal\\Models\\Survey.cs",
@@ -108,12 +122,11 @@
               "RelativeToolTip": "SurveyPortal\\Models\\Survey.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:22:40.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:22:40.351Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SurveyPortal\\Views\\Shared\\_Layout.cshtml",
@@ -121,12 +134,11 @@
               "RelativeToolTip": "SurveyPortal\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-08T18:22:36.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:22:36.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SurveyPortal\\Views\\Home\\Index.cshtml",
@@ -139,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "SurveyDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Migrations\\SurveyDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "SurveyPortal\\Migrations\\SurveyDbContextModelSnapshot.cs",
@@ -147,12 +159,11 @@
               "RelativeToolTip": "SurveyPortal\\Migrations\\SurveyDbContextModelSnapshot.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAcwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:22:00.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:22:00.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Program.cs",
               "RelativeDocumentMoniker": "SurveyPortal\\Program.cs",
@@ -160,25 +171,24 @@
               "RelativeToolTip": "SurveyPortal\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:19:40.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:19:40.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\appsettings.json",
               "RelativeDocumentMoniker": "SurveyPortal\\appsettings.json",
               "ToolTip": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\appsettings.json",
               "RelativeToolTip": "SurveyPortal\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-03-08T18:19:36.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SurveyPortal\\Controllers\\HomeController.cs",
@@ -186,12 +196,11 @@
               "RelativeToolTip": "SurveyPortal\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAowBYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:19:05.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:19:05.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "global.json",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\global.json",
               "RelativeDocumentMoniker": "SurveyPortal\\global.json",
@@ -199,12 +208,11 @@
               "RelativeToolTip": "SurveyPortal\\global.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-08T18:19:20.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:19:20.999Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "20250401232518_Initial.cs",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Migrations\\20250401232518_Initial.cs",
               "RelativeDocumentMoniker": "SurveyPortal\\Migrations\\20250401232518_Initial.cs",
@@ -212,12 +220,11 @@
               "RelativeToolTip": "SurveyPortal\\Migrations\\20250401232518_Initial.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA9wC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T18:21:49.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:21:49.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "libman.json",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\libman.json",
               "RelativeDocumentMoniker": "SurveyPortal\\libman.json",
@@ -229,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "SurveyListViewModel.cs",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Models\\ViewModels\\SurveyListViewModel.cs",
               "RelativeDocumentMoniker": "SurveyPortal\\Models\\ViewModels\\SurveyListViewModel.cs",
@@ -241,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SurveyPortal\\Properties\\launchSettings.json",
@@ -249,12 +256,11 @@
               "RelativeToolTip": "SurveyPortal\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-08T18:19:10.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T18:19:10.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "PagingInfo.cs",
               "DocumentMoniker": "D:\\Work\\ASP.NET\\Lab02\\SurveySln\\SurveyPortal\\Models\\ViewModels\\PagingInfo.cs",
               "RelativeDocumentMoniker": "SurveyPortal\\Models\\ViewModels\\PagingInfo.cs",

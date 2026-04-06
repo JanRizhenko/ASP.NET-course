@@ -166,4 +166,3 @@ D:\Work\ASP.NET\Lab02\SurveySln\SurveyPortal\bin\Debug\net10.0\ru\Microsoft.Code
 D:\Work\ASP.NET\Lab02\SurveySln\SurveyPortal\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Work\ASP.NET\Lab02\SurveySln\SurveyPortal\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\Work\ASP.NET\Lab02\SurveySln\SurveyPortal\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\Work\ASP.NET\Lab02\SurveySln\SurveyPortal\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
